@@ -1,0 +1,20 @@
+/* ========= Font Style ========= */
+/* লেখাকে কাত করা বা সাধারণ রাখতে font-style ব্যবহার হয় */
+
+.normal-style {
+  font-style: normal;
+  /* EN: Regular text style */
+  /* BN: সাধারণ টেক্সট */
+}
+
+.italic-style {
+  font-style: italic;
+  /* EN: Italic – slanted text */
+  /* BN: কাত করা লেখা */
+}
+
+.oblique-style {
+  font-style: oblique;
+  /* EN: Oblique – slightly slanted, similar to italic */
+  /* BN: হালকা কাত করা লেখা */
+}
